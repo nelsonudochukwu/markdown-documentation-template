@@ -1,6 +1,6 @@
 # Pandoc document template
 
-## Description
+## Description 
 
 This repository contains a simple template for building
 [Pandoc](http://pandoc.org/) documents; Pandoc is a suite of tools to compile
